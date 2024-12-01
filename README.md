@@ -22,7 +22,7 @@ Highlight the technologies, tools, or libraries you used.
 markdown
 Copy code
  Technologies Used
-- Arduino (C/C++)
+- Android Studio
 - MPU-6050 Sensor (Accelerometer and Gyroscope)
 - Vibration Motor or LED for Feedback
 5. Installation and Usage
@@ -34,7 +34,7 @@ Copy code
 git clone https://github.com/your-username/posture-detection.git
 markdown
 Copy code
-2. Open the project in the Arduino IDE.
+2. Open the project in the Android Studio .
 3. Connect the hardware components:
 - MPU-6050 to Arduino (I2C pins: SDA and SCL)
 - Vibration motor or LED to pin 9
